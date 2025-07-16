@@ -53,7 +53,7 @@ Currently interning at **LG Electronics** (Data Analytics & Big Data Department)
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Fact
 
 🏐 I’m a State & National Volleyball Player — Winner of Senior State Championship & multiple zonal competitions. I love teamwork on & off the court!
 
