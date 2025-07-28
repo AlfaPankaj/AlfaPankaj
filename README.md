@@ -1,16 +1,7 @@
-
 Hi, I'm Pankaj
 
-🎓 M.Sc. IT student at LPU<br/>
-📈 Aspiring Data Analyst / Data Scientist<br/>
-📊 Data Analyst specializing in predictive maintenance, anomaly detection & time-series forecasting<br/>
-💼 Intern at LG Electronics, working on real-time sensor data to improve system reliability & cut downtime<br/>
-🧩 Passionate about solving real-world problems with data-driven insights<br/>
-📧 [Email](mailto:Pankajya0003@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/pankaj-yadav-089b77259)
-
 # 💫 About Me:
-🎓 M.Sc. IT student at LPU<br>📊 Data Analyst specializing in predictive maintenance, anomaly detection & time-series forecasting<br>💼 Intern at LG Electronics, working on real-time sensor data to improve system reliability & cut downtime<br>🧩 Passionate about solving real-world problems with data-driven insights<br>🏐 Fact: State & National Volleyball player — teamwork & discipline on and off the court!
+🎓 M.Sc. IT student at LPU<br>📊 Data Analyst / Data Scientist specializing in predictive maintenance, anomaly detection & time-series forecasting<br>💼 Intern at LG Electronics, working on real-time sensor data to improve system reliability & cut downtime<br>🧩 Passionate about solving real-world problems with data-driven insights<br>🏐 Fact: State & National Volleyball player — teamwork & discipline on and off the court!
 
 
 ## 🌐 Socials:
