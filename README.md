@@ -1,7 +1,7 @@
 Hi, I'm Pankaj
 
 # 💫 About Me:
-🎓 M.Sc. IT student at LPU<br>📊 Data Analyst / Data Scientist specializing in predictive maintenance, anomaly detection & time-series forecasting<br>🧩 Passionate about solving real-world problems with data-driven insights<br>🏐 Fact: State & National Volleyball player — teamwork & discipline on and off the court!
+🎓 M.Sc. IT student at LPU<br>📊 Data Analyst / Data Scientist specializing in predictive maintenance, anomaly detection & time-series forecasting, GenAI <br>🧩 Passionate about solving real-world problems with data-driven insights<br>🏐 Fact: State & National Volleyball player — teamwork & discipline on and off the court!
 
 
 ## 🌐 Socials:
