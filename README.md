@@ -1,7 +1,7 @@
 Hi, I'm Pankaj
 
 # 💫 About Me:
-🎓 M.Sc. IT student at LPU<br>📊 Data Analyst / Data Scientist specializing in predictive maintenance, anomaly detection & time-series forecasting, GenAI <br>🧩 Passionate about solving real-world problems with data-driven insights<br>🏐 Fact: State & National Volleyball player — teamwork & discipline on and off the court!
+🎓 M.Sc. IT student at LPU<br>Generative AI Researcher & Systems Engineer · Building CHAARI 2.0 (Hinglish Agentic AI) & NMOS (70B inference on 4GB VRAM) · arXiv in prep <br>🧩 Passionate about solving real-world problems with data-driven insights<br>🏐 Fact: State & National Volleyball player — teamwork & discipline on and off the court!
 
 
 ## 🌐 Socials:
