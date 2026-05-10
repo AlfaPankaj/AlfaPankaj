@@ -20,6 +20,7 @@ I build AI systems that run on hardware most researchers discard.
 
 My work sits at the intersection of **edge AI**, **agentic systems**, and **low-resource NLP** — with a focus on making powerful AI accessible on 4 GB VRAM consumer hardware, in Indian languages, without cloud dependency.
 
+- 💎 Building **PRISM-AI** — a model-agnostic recommendation engine for LLMs that eliminates "Intent Alignment Tax" (Local Llama 3.2, Persistent UIV Store)
 - 🧠 Building **CHAARI 2.0** — a privacy-first bilingual agentic AI OS companion (Hinglish, 4 GB VRAM, cryptographic mesh, arXiv in prep)
 - ⚡ Researching **NMOS** — 70B+ inference on 4 GB VRAM via anticipatory behavioral signal loading
 - 🎓 MSc Information Technology @ Lovely Professional University (May 2026)
@@ -29,6 +30,21 @@ My work sits at the intersection of **edge AI**, **agentic systems**, and **low-
 ---
 
 ## Flagship Projects
+
+### 💎 PRISM-AI — Predicting Response Intent from Session Memory
+> *A "Recommendation Engine" for Generative AI*
+
+Model-agnostic framework that eliminates repetitive AI instructions by predicting user intent from chat history. Bringing Big Data principles to LLM orchestration.
+
+| Component | Detail |
+|---|---|
+| **Core** | Hybrid UIV inference (weighted signals + confidence gating + temporal decay) |
+| **Big Data** | Profile Store v2 with metadata, temporary overrides, retention hooks, export/delete controls |
+| **Model** | Seamlessly integrated with **Local Llama 3.2:3b** via Ollama |
+| **UX** | Interactive Gradio Web UI with real-time intent visualization and profile health status |
+| **Research** | Production-style evaluation metrics + observability for misclassification tracking |
+
+---
 
 ### 🤖 CHAARI 2.0 — Privacy-First Bilingual Agentic AI
 > *Comprehensive Hinglish AI Agentic Runtime Interface*
@@ -40,10 +56,8 @@ Production-grade two-node agentic AI companion running entirely on **RTX 2050 (4
 | **Scale** | 39+ Python modules · 8,000+ lines of code · 369+ automated tests |
 | **Model** | Fine-tuned Qwen 2.5 4.2B on custom Hinglish dataset · 30–40 tok/s on 4 GB VRAM |
 | **Safety** | 7-layer Constitutional AI-inspired pipeline (code-based, not prompt-based) |
-| **Security** | RSA-2048 two-node TCP mesh · nonce replay protection · 3-step handshake |
 | **RAG** | RAPTOR 3-level hierarchical RAG · 1.14 GB vector index · sub-second retrieval |
 | **Voice** | Full-duplex STT+TTS · sub-800ms conversation latency · sub-100ms tool calls |
-| **Vision** | OCR + Llava 7B for screen/image understanding |
 | **Research** | arXiv paper in preparation (cs.CL / cs.AI) |
 
 ---
@@ -59,9 +73,7 @@ Running 70B+ parameter models on 4 GB VRAM by using human behavioral signals to 
 |---|---|---|
 | **Scout** (SmolLM2-135M) | Real-time shard affinity prediction | ✅ 90% accuracy |
 | **River** | Async double-buffered prefetcher | ✅ Zero GPU stall |
-| **Memory** | Paged-KV controller with H2O folding | ✅ Active |
 | **Engine** | Speculative decoding orchestrator (K=15) | ✅ ~16 tok/s on 70B |
-| **Failure Memory** | HNSW vector DB for misprediction learning | 🔄 Next phase |
 
 ---
 
@@ -104,12 +116,6 @@ Running 70B+ parameter models on 4 GB VRAM by using human behavioral signals to 
 ![FAISS](https://img.shields.io/badge/FAISS-blue?style=flat)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat)
 ![Endee](https://img.shields.io/badge/Endee_VectorDB-green?style=flat)
-
-**Infrastructure**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 
 ---
 
