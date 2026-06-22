@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pankaj--ya-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pankaj-ya)
 [![Email](https://img.shields.io/badge/Email-pankajya0003@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pankajya0003@gmail.com)
-[![arXiv](https://img.shields.io/badge/arXiv-cs.CL%20%7C%20cs.AI-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org)
+[![arXiv](https://img.shields.io/badge/arXiv-cs.CL%20%7C%20cs.AI-B31B1B?style=flat&logo=arxiv&logoColor=white)]()
 ![Profile Views]()
 
 </div>
