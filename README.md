@@ -24,6 +24,7 @@ My work sits at the intersection of **edge AI**, **agentic systems**, and **low-
 - ⚡ Researching **NMOS** — 70B+ inference on 4 GB VRAM via anticipatory behavioral signal loading
 - 🎓 MSc Information Technology @ Lovely Professional University (May 2026)
 - 💼 ex-Intern @ LG Electronics (predictive maintenance, >95% recall)
+- 💼 ex-Intern @ Surge AI (Machine Learning Engineer)
 - 🏐 State & National Volleyball player — teamwork on and off the court
 
 ---
